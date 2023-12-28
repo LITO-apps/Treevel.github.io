@@ -1,0 +1,2 @@
+- [Privacy Policy in English](https://lito-apps.github.io/Treevel.github.io/privacy-policy/en_US/)
+- [プライバシーポリシー（日本語）](https://lito-apps.github.io/Treevel.github.io/privacy-policy/ja/)
