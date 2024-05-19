@@ -8,7 +8,8 @@ When using the App, we may collect information for the following purposes:
 
 | Purpose of Collection | Information Collected |
 | --- | --- |
-| For the provision of this service | User ID (An anonymized ID is automatically issued at the start of app usage) |
+| For the provision of this service | User ID (An anonymized ID is automatically issued at the start of app usage), information on in-game actions |
+| For data analysis | Language used, country or region, User ID, device information |
 | App Crash Reports | Language used, country or region, User ID, device information |
 
 ### Advertising
